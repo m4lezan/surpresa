@@ -1,3 +1,3 @@
 # surpresa
 
-Esse foi meu primeiro projeo
+Esse foi meu primeiro projeto
